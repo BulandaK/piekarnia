@@ -1,0 +1,22 @@
+{
+  "name": "piekarnia",
+  "version": "1.0.0",
+  "description": "five nights at pawelek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BulandaK/piekarnia.git"
+  },
+  "author": "Kamil Bulanda, Jakub Łakomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BulandaK/piekarnia/issues"
+  },
+  "homepage": "https://github.com/BulandaK/piekarnia#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
