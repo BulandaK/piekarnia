@@ -1,4 +1,4 @@
-5456
+5457
 77C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\fs\src\find.js121436361000000000 0
 84C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\entities\lib\maps\legacy.json121436361000000000 0
 54C:\Users\kambu\Desktop\projekty\piekarnia\package.json133051483149253805 0
@@ -52,6 +52,8 @@
 65C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\terser\lib133051318328693545 1
 74C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\animation133051334907298517 1
 71C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\posthtml\license121436361000000000 0
+48C:\Users\kambu\Desktop\projekty\piekarnia\static133052441716631682 1
+124C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\roughnessmap_fragment.glsl.js121436361000000000 0
 65C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\color-name133051318359670747 1
 117C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\project_vertex.glsl.js121436361000000000 0
 89C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@jridgewell\gen-mapping\dist\types133051318311986867 1
@@ -296,8 +298,8 @@
 86C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\caniuse-lite\data\regions\MA.js121436361000000000 0
 80C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\posthtml-parser\readme.md121436361000000000 0
 85C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\lights\PointLight.js121436361000000000 0
-65C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\domhandler133051318359690692 1
 64C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\js-tokens133051318363665193 1
+65C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\domhandler133051318359690692 1
 117C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\color_fragment.glsl.js121436361000000000 0
 63C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\domutils133051318359715883 1
 99C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\utility-types\dist\aliases-and-guards.js.map121436361000000000 0
@@ -1399,7 +1401,6 @@
 80C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\utils\src\path.js121436361000000000 0
 68C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\data133051318330503959 1
 120C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\color_pars_vertex.glsl.js121436361000000000 0
-92C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\node-editor\inputs133051334909333096 1
 109C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\common.glsl.js121436361000000000 0
 119C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\uv_pars_fragment.glsl.js121436361000000000 0
 99C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\nodes\core\VaryingNode.js121436361000000000 0
@@ -1494,7 +1495,6 @@
 113C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\math\interpolants\QuaternionLinearInterpolant.js121436361000000000 0
 116C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\normal_vertex.glsl.js121436361000000000 0
 95C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\js\physics\OimoPhysics.js121436361000000000 0
-124C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\roughnessmap_fragment.glsl.js121436361000000000 0
 124C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\shadowmap_pars_vertex.glsl.js121436361000000000 0
 68C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\chalk\license121436361000000000 0
 119C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\src\renderers\shaders\ShaderChunk\shadowmap_vertex.glsl.js121436361000000000 0
@@ -2189,6 +2189,7 @@
 94C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\node-editor\examples133051334911886587 1
 107C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@babel\helper-validator-identifier\lib\identifier.js121012626000000000 0
 100C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\modifiers\CurveModifier.js121436361000000000 0
+92C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\node-editor\inputs133051334909333096 1
 89C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\utils\src\shared-buffer.js121436361000000000 0
 87C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\node_modules\node-addon-api133051318363635256 1
 92C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\svgo\plugins\moveGroupAttrsToElems.js121436361000000000 0
@@ -2404,7 +2405,6 @@
 77C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\nth-check\package.json133051318362957078 0
 93C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\js\loaders\KTXLoader.js121436361000000000 0
 98C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\three\examples\jsm\exporters\STLExporter.js121436361000000000 0
-76C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\rollup.config.js121436361000000000 0
 82C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\package-manager\lib133051318328289526 1
 105C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\caniuse-lite\data\features\background-clip-text.js121436361000000000 0
 101C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js121436361000000000 0
@@ -3208,6 +3208,7 @@
 68C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\level.js121436361000000000 0
 69C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\native.js121436361000000000 0
 77C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\ansi-styles\index.d.ts121436361000000000 0
+76C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\rollup.config.js121436361000000000 0
 63C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\lmdb\src133051318329746003 1
 99C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@swc\helpers\lib\_assert_this_initialized.js121436361000000000 0
 71C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\escalade\license121436361000000000 0
@@ -3800,8 +3801,8 @@
 95C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\pseudo\common\nth.js121436361000000000 0
 93C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\chrome-trace-event\dist\trace-event.js121436361000000000 0
 107C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js121436361000000000 0
-104C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js121436361000000000 0
 85C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\@parcel\watcher\src\Watcher.cc121436361000000000 0
+104C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js121436361000000000 0
 96C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js121436361000000000 0
 100C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\node\AttributeSelector.js121436361000000000 0
 88C:\Users\kambu\Desktop\projekty\piekarnia\node_modules\css-tree\lib\syntax\node\Block.js121436361000000000 0
