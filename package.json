@@ -23,5 +23,8 @@
   },
   "staticFiles": {
     "staticOutPath": "assets"
+  },
+  "dependencies": {
+    "three": "^0.143.0"
   }
 }
